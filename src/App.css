@@ -1,0 +1,76 @@
+button {
+  background-color: #683cfc;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 15px;
+  margin-top: 20px;
+}
+
+label {
+  margin: 10px;
+  font-weight: bold;
+}
+
+.calories {
+  background-color: #d0e414;
+  padding: 5px;
+  text-align: center;
+  margin-top: 10px;
+  border-radius: 5%;
+  color: rgb(1, 65, 60);
+}
+
+ul {
+  list-style-type: none;
+  text-align: center;
+  margin-left: -30px;
+}
+
+li {
+  font-weight: bold;
+}
+
+h2{
+  margin-bottom: 5px;
+}
+
+p{
+  color: rgb(1, 65, 60);
+
+}
+
+h1 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.Gender{
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+select{
+  height: 30px;
+  font-weight: bold;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+option{
+  height: 30px;
+  font-weight: bold;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+::placeholder{
+  text-align: right;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
